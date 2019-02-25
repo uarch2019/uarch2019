@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# The First Undergrad Architecture Workshop (uArch), June 2019
 
-You can use the [editor on GitHub](https://github.com/uarch2019/uarch2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Mission
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The first Undergraduate Architecture (uArch) Mentoring Workshop is designed to familiarize late-stage undergraduate students and early-stage graduate students to research and career opportunities in the field of computer architecture in particular and graduate school lifestyle and survival skills in general. The program will include technical sessions that cover past, current and future research directions in computer architecture, mentoring sessions that cover how to apply to graduate school and how to navigate the architecture research landscape effectively, and networking sessions that create opportunities for students to interact with their peers and established architects in academia and industry. 
 
-### Markdown
+## Mechanics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The central theme of this workshop is to attract undergraduate students and early-stage graduate students who are interested in graduate school in computer architecture. To this end, uArch will likely include:
+The Route to Graduate School: Students will learn how to apply to graduate school, how to find their research interests, how to talk with a potential advisor, etc.
+* **Life at Graduate School**: The workshop will include keynote talks from academic and industry leaders about how to thrive at graduate school.
+* **Computer Architecture Research Landscape**: The workshop will include technical sessions covering history, current SOTA research and challenging problems that are left unsolved.
+* **Meet an “Architect in Process’’**: As part of the workshop, attendees will be paired with students who are pursuing a Ph.D. degree in computer architecture to hear their first-hand experience about research and life at graduate school and build a mentor-mentee relationship.
+* **Ask an Architect**: The workshop will include a panel of established architects in the industry and academia from whom students can seek career advice.
 
-```markdown
-Syntax highlighted code block
+## Program Schedule
+- Full-day Sunday, June 23rd, 2019
+- TBD
 
-# Header 1
-## Header 2
-### Header 3
+## Application Submission
+* Eligibility: Applicants must be senior undergrad students or first-year graduate students in computer science or related fields at the time of the workshop. Applications from underrepresented groups in computing are especially welcome.
+* Required Documents: 
+Fill up the form [here]()
+A statement of purpose explaining why you want to attend this workshop.
+A note from the student’s advisor (if any) or teacher attesting their academic standing is excellent.
 
-- Bulleted
-- List
+**Note: Applicants who are selected for the workshop will have travel, hotel, and conference registration costs covered for the workshop and the main program of the conference.  They are expected to stay from Sunday through Wednesday morning.**
 
-1. Numbered
-2. List
+## Important Dates
+- Feb 18: Submission Opens
+- March 25: Submission deadline
+- April 15: Notify the recipients 
 
-**Bold** and _Italic_ and `Code` text
+## Committees
 
-[Link](url) and ![Image](src)
-```
+## Organizers
+- Srilatha (Bobbie) Manne
+- Newsha Ardalani
+- Lena Olson
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Selection Committee
+- Newsha Ardalani
+- Lena Olson
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uarch2019/uarch2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
