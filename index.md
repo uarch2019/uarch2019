@@ -1,4 +1,3 @@
-# The First Undergrad Architecture Workshop (uArch), June 2019
 
 ## Mission
 
