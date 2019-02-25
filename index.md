@@ -23,7 +23,8 @@ The Route to Graduate School: Students will learn how to apply to graduate schoo
 * **Optional**:
   * A note from the student’s advisor (if any) or teacher attesting that they are in good standing.
 
-**Note: Applicants who are selected for the workshop will have travel, hotel, and conference registration costs covered for the workshop and the main program of the conference.  They are expected to stay from Sunday through Wednesday morning.**
+**Note: Applicants who are selected for the workshop will have travel, hotel, and conference registration costs covered for the workshop and the main program of the conference. Attendees are expected to stay from Sunday through Wednesday morning.
+The cost would be reimbursed after the conference. If you need assistance covering the cost apriori, please contact the organizers @ [uarch2019@gmail.com].**
 
 ## Important Dates
 - **Feb 25**: [Submission Opens](https://docs.google.com/forms/d/e/1FAIpQLSdsEaCqNRF5RhxrplS-etOCLvbUWt9pfYfY-ABR6F2y-RAIag/viewform?vc=0&c=0&w=1)
@@ -32,7 +33,7 @@ The Route to Graduate School: Students will learn how to apply to graduate schoo
 
 ## Organizers
 - Srilatha (Bobbie) Manne
-- Newsha Ardalani
+- Newsha Ardalani 
 - Lena Olson
 
 ## Selection Committee
