@@ -17,7 +17,7 @@ The Route to Graduate School: Students will learn how to apply to graduate schoo
 - TBD
 
 ## Application Submission
-* **Eligibility**: Applicants must be undergraduate students in their last or second-to-last year or first-year graduate students in computer science or related fields at the time of the workshop. Applications from underrepresented groups in computing are especially welcome.
+* **Eligibility**: Applicants must be undergraduate students in their last or second-to-last year or first-year graduate students in computer science or related fields at the time of the workshop. *Applications from underrepresented groups in computing are especially welcome.*
 * **Required Documents**: 
   * A statement of purpose explaining why you want to attend this workshop.
   * A note from the student’s advisor (if any) or teacher attesting that they are in good standing.
