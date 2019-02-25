@@ -27,11 +27,9 @@ A note from the student’s advisor (if any) or teacher attesting their academic
 **Note: Applicants who are selected for the workshop will have travel, hotel, and conference registration costs covered for the workshop and the main program of the conference.  They are expected to stay from Sunday through Wednesday morning.**
 
 ## Important Dates
-- Feb 18: Submission Opens
+- Feb 25: Submission Opens
 - March 25: Submission deadline
 - April 15: Notify the recipients 
-
-## Committees
 
 ## Organizers
 - Srilatha (Bobbie) Manne
