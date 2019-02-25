@@ -25,7 +25,7 @@ The Route to Graduate School: Students will learn how to apply to graduate schoo
 **Note: Applicants who are selected for the workshop will have travel, hotel, and conference registration costs covered for the workshop and the main program of the conference.  They are expected to stay from Sunday through Wednesday morning.**
 
 ## Important Dates
-- **Feb 25**: [Submission Opens](https://docs.google.com/forms/d/e/1FAIpQLSc0SHmcOfymzYFPFWTz6gdKVF5khcGGfiX7xO6WIqWsPWInRg/viewform)
+- **Feb 25**: [Submission Opens](https://docs.google.com/forms/d/e/1FAIpQLSdsEaCqNRF5RhxrplS-etOCLvbUWt9pfYfY-ABR6F2y-RAIag/viewform?vc=0&c=0&w=1)
 - **March 25**: Submission deadline
 - **April 15**: Notify the recipients 
 
