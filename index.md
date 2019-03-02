@@ -18,7 +18,7 @@ The central theme of this workshop is to attract undergraduate students and earl
 - Full program TDB
 
 ## Application Submission
-* **Eligibility**: Applicants must be undergraduate students in their last or second-to-last year or first-year graduate students in computer science or related fields at the time of the workshop. *Applications from underrepresented groups in computing are especially welcome.*
+* **Eligibility**: Applicants must be undergraduate students in their last or second-to-last year or first-year graduate students in computer science or related fields as of fall 2019. *Applications from underrepresented groups in computing are especially welcome.*
 * **Required Documents**: 
   * A statement of purpose explaining why you want to attend this workshop.
 * **Optional**:
