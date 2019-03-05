@@ -18,13 +18,13 @@ The central theme of this workshop is to attract undergraduate students and earl
 - Full program TDB
 
 ## Application Submission
-* **Eligibility**: Applicants must be undergraduate students in their last or second-to-last year or first-year graduate students in computer science or related fields as of fall 2019. *Applications from underrepresented groups in computing are especially welcome.*
+* **Eligibility**: Applicants must be undergraduate students in their last or second-to-last year or first-year graduate students in computer science or related fields as of fall 2019.  International students are welcome to apply. *Applications from underrepresented groups in computing are especially welcome.*
 * **Required Documents**: 
   * A statement of purpose explaining why you want to attend this workshop.
 * **Optional**:
   * A note from the student’s advisor (if any) or teacher recommending them for the workshop.
 
-**Note: Applicants who are selected for the workshop will have travel, hotel, and conference registration costs covered for the workshop and the main program of the conference. Attendees are expected to stay from Sunday through Wednesday morning and to attend both the workshop and the conference main program.**
+**Note: Applicants who are selected for the workshop will have travel, hotel, and conference registration costs covered for the workshop and the main program of the conference. For international students, travel cost may be capped (subsidized rather than fully covered). Attendees are expected to stay from Sunday through Wednesday morning and to attend both the workshop and the conference main program.**
 
 ## Important Dates
 - **Mar 1**: [Submission Opens](https://docs.google.com/forms/d/e/1FAIpQLSdsEaCqNRF5RhxrplS-etOCLvbUWt9pfYfY-ABR6F2y-RAIag/viewform?vc=0&c=0&w=1)
