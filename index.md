@@ -24,9 +24,9 @@ The central theme of this workshop is to attract undergraduate students and earl
 * **Optional**:
   * A note from the student’s advisor (if any) or teacher recommending them for the workshop.
 
-**Note: Applicants who are selected for the workshop will have hotel, and conference registration costs covered for the workshop and the main program of the conference. We will also cover travel, although it is possible that we will need to cap travel funding in order to reach the most students.  We expect that travel funding will be sufficient to cover domestic flights, but may not be enough to fully cover some international flights and/or visa costs.  Being accepted does not obligate attendence, so we encourage students to apply and if they are accepted but funding is insufficient, they may then decline.**
+Applicants who are selected for the workshop will have travel, hotel, and conference registration costs covered for the workshop and the main program of the conference. **Attendees are expected to stay from Sunday through Wednesday morning and to attend both the workshop and the conference main program.**
 
-**Attendees are expected to stay from Sunday through Wednesday morning and to attend both the workshop and the conference main program.**
+**Note for non-US applicants:** It is possible that we will need to cap travel funding in order to reach the most students.  We expect that travel funding will be sufficient to cover domestic flights, but may not be enough to fully cover some international flights and/or visa costs.  Being accepted does not obligate attendence, so we encourage students to apply and if they are accepted but funding is insufficient, they may then decline.
 
 ## Important Dates
 - **Mar 1**: [Submission Opens](https://docs.google.com/forms/d/e/1FAIpQLSdsEaCqNRF5RhxrplS-etOCLvbUWt9pfYfY-ABR6F2y-RAIag/viewform?vc=0&c=0&w=1)
