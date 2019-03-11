@@ -12,6 +12,10 @@ The central theme of this workshop is to attract undergraduate students and earl
 * **Meet an “Architect in Process’’**: As part of the workshop, attendees will be paired with students who are pursuing a Ph.D. degree in computer architecture to hear their first-hand experience about research and life at graduate school and build a mentor-mentee relationship.
 * **Ask an Architect**: The workshop will include a panel of established architects in the industry and academia from whom students can seek career advice.
 
+## Apply to the workshop
+
+To apply to the workshop, fill out the [Google form available here](https://docs.google.com/forms/d/e/1FAIpQLSdsEaCqNRF5RhxrplS-etOCLvbUWt9pfYfY-ABR6F2y-RAIag/viewform?vc=0&c=0&w=1)
+
 ## Program Schedule
 - Full-day Sunday, June 23rd, 2019
 - Networking events from Monday-Wednesday
