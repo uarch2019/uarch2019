@@ -32,6 +32,8 @@ Applicants who are selected for the workshop will have travel, hotel, and confer
 
 **Note for non-US applicants:** It is possible that we will need to cap travel funding in order to reach the most students.  We expect that travel funding will be sufficient to cover domestic flights, but may not be enough to fully cover some international flights and/or visa costs.  Being accepted does not obligate attendence, so we encourage students to apply and if they are accepted but funding is insufficient, they may then decline.
 
+**Note for women undergraduate and graduate students** ACM-W provides support for women undergraduate and graduate students in Computer Science and related programs to attend research conferences. The application deadline is April 15 for conferences taking place in June—July, 2019.   For more information and to apply visit [here](https://women.acm.org/scholarships). 
+
 ## Important Dates
 - **Mar 1**: [Submission Opens](https://docs.google.com/forms/d/e/1FAIpQLSdsEaCqNRF5RhxrplS-etOCLvbUWt9pfYfY-ABR6F2y-RAIag/viewform?vc=0&c=0&w=1)
 - **April 1**: Submission deadline
