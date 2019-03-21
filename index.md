@@ -48,4 +48,7 @@ Applicants who are selected for the workshop will have travel, hotel, and confer
 - Newsha Ardalani
 - Lena Olson
 
+##Questions?
+Please contact [isca2019.uarch@gmail.com](isca2019.uarch@gmail.com)
+
 
