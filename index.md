@@ -36,8 +36,8 @@ Applicants who are selected for the workshop will have travel, hotel, and confer
 
 ## Important Dates
 - **Mar 1**: [Submission Opens](https://docs.google.com/forms/d/e/1FAIpQLSdsEaCqNRF5RhxrplS-etOCLvbUWt9pfYfY-ABR6F2y-RAIag/viewform?vc=0&c=0&w=1)
-- **April 1**: Submission deadline
-- **April 15**: Notify the recipients 
+- **~~April 1~~ April 15**: Submission deadline
+- **~~April 15~~ May 1**: Notify the recipients 
 
 ## Organizers
 - Srilatha (Bobbie) Manne
