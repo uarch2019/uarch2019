@@ -19,7 +19,7 @@ To apply to the workshop, fill out the [Google form available here](https://docs
 ## Program Schedule
 * Full-day Sunday, June 23rd, 2019
   * Morning will include joint session with [PLDI's Programming Language Mentoring Workshop](https://pldi19.sigplan.org/home/PLMW-PLDI-2019).
-  * Afternoon will include talks by prominent architects, including Turing-award winner David Patterson.
+  * Afternoon will include talks by prominent architects, including Turing award winner David Patterson.
 * Networking events from Monday-Wednesday
 * Full program TDB
 
