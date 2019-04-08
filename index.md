@@ -16,6 +16,8 @@ The central theme of this workshop is to attract undergraduate students and earl
 
 To apply to the workshop, fill out the [Google form available here](https://docs.google.com/forms/d/e/1FAIpQLSdsEaCqNRF5RhxrplS-etOCLvbUWt9pfYfY-ABR6F2y-RAIag/viewform?vc=0&c=0&w=1)
 
+We will aim to fund as many students as possible, but likely will not be able to fund anyone.  Students who are not accepted with funding may still attend if they find other funding sources (even if they do not apply via the link above).
+
 ## Program Schedule
 * Full-day Sunday, June 23rd, 2019
   * Morning will include joint session with [PLDI's Programming Language Mentoring Workshop](https://pldi19.sigplan.org/home/PLMW-PLDI-2019).
@@ -30,7 +32,7 @@ To apply to the workshop, fill out the [Google form available here](https://docs
 * **Optional**:
   * A note from the student’s advisor (if any) or teacher recommending them for the workshop.
 
-Applicants who are selected for the workshop will have travel, hotel, and conference registration costs covered for the workshop and the main program of the conference. **Attendees are expected to stay from Sunday through Wednesday morning and to attend both the workshop and the conference main program.**
+Applicants who are selected for the workshop will have travel, hotel, and conference registration costs covered for the workshop and the main program of the conference. **Funded attendees are expected to stay from Sunday through Wednesday morning and to attend both the workshop and the conference main program.**
 
 **Note for non-US applicants:** It is possible that we will need to cap travel funding in order to reach the most students.  We expect that travel funding will be sufficient to cover domestic flights, but may not be enough to fully cover some international flights and/or visa costs.  Being accepted does not obligate attendence, so we encourage students to apply and if they are accepted but funding is insufficient, they may then decline.
 
