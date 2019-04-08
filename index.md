@@ -16,7 +16,7 @@ The central theme of this workshop is to attract undergraduate students and earl
 
 To apply to the workshop, fill out the [Google form available here](https://docs.google.com/forms/d/e/1FAIpQLSdsEaCqNRF5RhxrplS-etOCLvbUWt9pfYfY-ABR6F2y-RAIag/viewform?vc=0&c=0&w=1)
 
-We will aim to fund as many students as possible, but likely will not be able to fund anyone.  Students who are not accepted with funding may still attend if they find other funding sources (even if they do not apply via the link above).
+We will aim to fund as many students as possible, but likely will not be able to fund anyone.  Students who are not accepted with funding may still attend if they find other funding sources.  And students who do not need funding are welcome to directly register for the workshop during FCRC registration, without filling out the application above.
 
 ## Program Schedule
 * Full-day Sunday, June 23rd, 2019
