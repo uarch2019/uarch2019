@@ -17,9 +17,11 @@ The central theme of this workshop is to attract undergraduate students and earl
 To apply to the workshop, fill out the [Google form available here](https://docs.google.com/forms/d/e/1FAIpQLSdsEaCqNRF5RhxrplS-etOCLvbUWt9pfYfY-ABR6F2y-RAIag/viewform?vc=0&c=0&w=1)
 
 ## Program Schedule
-- Full-day Sunday, June 23rd, 2019
-- Networking events from Monday-Wednesday
-- Full program TDB
+* Full-day Sunday, June 23rd, 2019
+  * Morning will include joint session with [PLDI's Programming Language Mentoring Workshop](https://pldi19.sigplan.org/home/PLMW-PLDI-2019).
+  * Afternoon will include talks by prominent architects, including Turing-award winner David Patterson.
+* Networking events from Monday-Wednesday
+* Full program TDB
 
 ## Application Submission
 * **Eligibility**: Applicants must be undergraduate students in their last or second-to-last year or first-year graduate students in computer science or related fields as of fall 2019.  Students from around the world are welcome to apply. *Applications from underrepresented groups in computing are especially welcome.*
