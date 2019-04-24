@@ -56,9 +56,11 @@ Applicants who are selected for the workshop will have travel, hotel, and confer
 Please contact [isca2019.uarch@gmail.com](isca2019.uarch@gmail.com)
 
 ## Sponsors
-![ACM SIGARCH](./images/sigarch.png)
-![NSF](./images/nsf.svg.png| width=100)
-![Microsoft](./images/microsoft.png| width=100)
-
+<p align="center">
+ <img src="./images/sigarch.png" hspace="30"/>
+ <img src="./images/nsf.svg.png" width="100" height="100" hspace="30"/>
+ <img src="./images/microsoft.png" width="250" height="120" hspace="30"/>
+ <img src="./images/vmware.png" width="250" height="120" hspace="30"/> 
+</p>
 
 
