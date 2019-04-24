@@ -21,9 +21,9 @@ We will aim to fund as many students as possible, but will not be able to fund a
 ## Program Schedule
 * Full-day Sunday, June 23rd, 2019
   * Morning will include joint session with [PLDI's Programming Language Mentoring Workshop](https://pldi19.sigplan.org/home/PLMW-PLDI-2019).
-  * Afternoon will include talks by prominent architects, including Turing award winner David Patterson.
+  * Afternoon will include talks by prominent architects, including Turing award winner David Patterson, and Karin Strauss.
 * Networking events from Monday-Wednesday
-* Full program TDB
+* Full program TBD.
 
 ## Application Submission
 * **Eligibility**: Applicants must be undergraduate students in their last or second-to-last year or first-year graduate students in computer science or related fields as of fall 2019.  Students from around the world are welcome to apply. *Applications from underrepresented groups in computing are especially welcome.*
@@ -59,8 +59,8 @@ Please contact [isca2019.uarch@gmail.com](isca2019.uarch@gmail.com)
 
 ## Sponsors
 <p align="center">
- <img src="./images/sigarch.png" hspace="30"/>
- <img src="./images/nsf.svg.png" width="100" height="100" hspace="30"/>
+ <img src="./images/sigarch.png" hspace="50"/>
+ <img src="./images/nsf.svg.png" width="100" height="100" hspace="50"/>
  <img src="./images/microsoft.png" width="250" height="120" hspace="30"/>
 </p>
 
