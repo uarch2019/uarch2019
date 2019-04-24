@@ -61,7 +61,8 @@ Please contact [isca2019.uarch@gmail.com](isca2019.uarch@gmail.com)
 <p align="center">
  <img src="./images/sigarch.png" hspace="50"/>
  <img src="./images/nsf.svg.png" width="100" height="100" hspace="50"/>
- <img src="./images/microsoft.png" width="250" height="120" hspace="30"/>
+ <img src="./images/microsoft.png" width="250" height="120" hspace="50"/>
+ <img src="./images/vmware.png" width="250" height="120"/>
 </p>
 
 
