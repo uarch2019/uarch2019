@@ -57,6 +57,8 @@ Please contact [isca2019.uarch@gmail.com](isca2019.uarch@gmail.com)
 
 ## Sponsors
 ![ACM SIGARCH](./images/sigarch.png)
+![NSF](./images/nsf.svg.png)
+![Microsoft](./images/microsoft.png)
 
 
 
