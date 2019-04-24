@@ -49,6 +49,8 @@ Applicants who are selected for the workshop will have travel, hotel, and confer
 - Lena Olson
 
 ## Selection Committee
+- Adrian Sampson
+- Swapnil Haria
 - Newsha Ardalani
 - Lena Olson
 
