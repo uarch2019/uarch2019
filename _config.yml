@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: The First Undergrad Architecture Workshop (uArch)
 description: June 23rd, Phoenix, Arizona
-header-img: img/mentor.jpeg
+header-img: ./images/mentor.jpeg
 headercolor: "#FFFFFF"
