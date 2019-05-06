@@ -33,8 +33,8 @@ We will aim to fund as many students as possible, but will not be able to fund a
 
 ## Program Schedule
 
-
-### Morning Session ([Joint with PLDI's Mentoring Workshop](https://pldi19.sigplan.org/home/PLMW-PLDI-2019))
+### Dinner @ Saturday June 22nd
+### Morning Session, June 23rd ([Joint with PLDI's Mentoring Workshop](https://pldi19.sigplan.org/home/PLMW-PLDI-2019))
 
 **9 - 9:30**             How to Leverage communication and Social Network to Better Your Research
 
@@ -49,7 +49,7 @@ We will aim to fund as many students as possible, but will not be able to fund a
 **12:30 - 2:00**         Lunch
 
 
-### Afternoon Session
+### Afternoon Session, June 23rd
 
 **2:00 - 3:00**         Computer Architecture Research and the Future Prospects
 
