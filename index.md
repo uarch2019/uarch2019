@@ -19,11 +19,34 @@ To apply to the workshop, fill out the [Google form available here](https://docs
 We will aim to fund as many students as possible, but will not be able to fund all applicants.  Students who are not accepted with funding may still attend if they find other funding sources.  And students who do not need funding are welcome to directly register for the workshop during FCRC registration, without filling out the application above.
 
 ## Program Schedule
-* Full-day Sunday, June 23rd, 2019
-  * Morning will include joint session with [PLDI's Programming Language Mentoring Workshop](https://pldi19.sigplan.org/home/PLMW-PLDI-2019).
-  * Afternoon will include talks by prominent architects, including Turing award winner David Patterson, and Karin Strauss.
-* Networking events from Monday-Wednesday
-* Full program TBD.
+
+
+### Morning Session ([Joint with PLDI's Mentoring Workshop](https://pldi19.sigplan.org/home/PLMW-PLDI-2019))
+
+**9 - 9:30**             How to leverage communication and social network to better your research
+
+**9:30 - 10:15**         Starting out in graduate school
+
+**10:15 - 11**           How to choose a research topic and navigate the ups and downs
+
+**11 - 11:20**           Break
+
+**11:20 - 12:30**        Discussion Panel
+
+
+**12:30 - 2:00**         Lunch
+
+
+### Afternoon Session
+
+**2:00 - 3:00**          What is computer architecture? What is the architecture research process? Why   architecture is aexciting? What is the future of the field?
+
+**3 - 3:45**            Intesrsection of Computer Architecture and Biology
+
+**3:45 - 4:00**          Break
+
+**4:00 - 4:30**          Informal networking session, practicing the elevator pitch
+
 
 ## Application Submission
 * **Eligibility**: Applicants must be undergraduate students in their last or second-to-last year or first-year graduate students in computer science or related fields as of fall 2019.  Students from around the world are welcome to apply. *Applications from underrepresented groups in computing are especially welcome.*
