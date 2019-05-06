@@ -36,30 +36,28 @@ We will aim to fund as many students as possible, but will not be able to fund a
 
 ### Morning Session ([Joint with PLDI's Mentoring Workshop](https://pldi19.sigplan.org/home/PLMW-PLDI-2019))
 
-**9 - 9:30**             How to leverage communication and social network to better your research
+**9 - 9:30**             How to Leverage communication and Social Network to Better Your Research
 
-**9:30 - 10:15**         Starting out in graduate school
+**9:30 - 10:15**         Starting Out in Graduate School
 
-**10:15 - 11**           How to choose a research topic and navigate the ups and downs
+**10:15 - 11**           How to Choose a Research Topic and Navigate the Ups and Downs
 
 **11 - 11:20**           Break
 
 **11:20 - 12:30**        Discussion Panel
-
 
 **12:30 - 2:00**         Lunch
 
 
 ### Afternoon Session
 
-**2:00 - 3:00**          What is computer architecture? What is the architecture research process? Why   architecture is aexciting? What is the future of the field?
+**2:00 - 3:00**         Computer Architecture Research and the Future Prospects
 
-**3 - 3:45**            Intesrsection of Computer Architecture and Biology
+**3 - 3:45**            Computer Architecture Research Meets Biology
 
-**3:45 - 4:00**          Break
+**3:45 - 4:00**         Break
 
-**4:00 - 4:30**          Informal networking session, practicing the elevator pitch
-
+**4:00 - 4:30**         Informal Networking Session
 
 ## Application Submission
 * **Eligibility**: Applicants must be undergraduate students in their last or second-to-last year or first-year graduate students in computer science or related fields as of fall 2019.  Students from around the world are welcome to apply. *Applications from underrepresented groups in computing are especially welcome.*
