@@ -18,14 +18,14 @@ To apply to the workshop, fill out the [Google form available here](https://docs
 
 We will aim to fund as many students as possible, but will not be able to fund all applicants.  Students who are not accepted with funding may still attend if they find other funding sources.  And students who do not need funding are welcome to directly register for the workshop during FCRC registration, without filling out the application above.
 
-## Speakers
+## Invited Speakers
 * **Mary Hall** (University of Utah)
 * **Jason Mars** (University of Michigan/ Startup founder)
 * **David Patterson** (UC Berkley, Turing Award Laureate, Google Brain)
 * **Karin Strauss** (Microsoft Research)
 
 
-## Panelists
+## Invited Panelists
 * **Lisa Hsu** (Microsoft)
 * **Ben Zorn** (Microsoft)
 * **Swapnil Haria** (Graduate student)
