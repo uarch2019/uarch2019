@@ -14,9 +14,10 @@ The central theme of this workshop is to attract undergraduate students and earl
 
 ## Apply to the workshop
 
-To apply to the workshop, fill out the [Google form available here](https://docs.google.com/forms/d/e/1FAIpQLSdsEaCqNRF5RhxrplS-etOCLvbUWt9pfYfY-ABR6F2y-RAIag/viewform?vc=0&c=0&w=1)
+~~To apply to the workshop, fill out the [Google form available here](https://docs.google.com/forms/d/e/1FAIpQLSdsEaCqNRF5RhxrplS-etOCLvbUWt9pfYfY-ABR6F2y-RAIag/viewform?vc=0&c=0&w=1)~~
 
-We will aim to fund as many students as possible, but will not be able to fund all applicants.  Students who are not accepted with funding may still attend if they find other funding sources.  And students who do not need funding are welcome to directly register for the workshop during FCRC registration, without filling out the application above.
+~~We will aim to fund as many students as possible, but will not be able to fund all applicants.  Students who are not accepted with funding may still attend if they find other funding sources.  And students who do not need funding are welcome to directly register for the workshop during FCRC registration, without filling out the application above.~~
+**Applications are now closed, but do feel free to attend the workshop by registering for it directly.  And if you are a faculty member, grad student, or researcher who would like to meet students and mentor them, shoot us an email.
 
 ## Invited Speakers
 * **Mary Hall** (University of Utah)
@@ -28,7 +29,6 @@ We will aim to fund as many students as possible, but will not be able to fund a
 ## Invited Panelists
 * **Lisa Hsu** (Microsoft)
 * **Ben Zorn** (Microsoft)
-* **Swapnil Haria** (Graduate student)
 * **Emma Tosch** (Graduate student)
 
 ## Program Schedule
@@ -58,6 +58,9 @@ We will aim to fund as many students as possible, but will not be able to fund a
 **3:45 - 4:00**         Break
 
 **4:00 - 4:30**         Informal Networking Session
+
+## Advice for attending your first ISCA
+We attempt to [answer some frequently asked questions](https://uarch2019.github.io/uarch2019/first_time_attendee_faq).
 
 ## Application Submission
 * **Eligibility**: Applicants must be undergraduate students in their last or second-to-last year or first-year graduate students in computer science or related fields as of fall 2019.  Students from around the world are welcome to apply. *Applications from underrepresented groups in computing are especially welcome.*
