@@ -107,5 +107,5 @@ Although you don't only need to talk about research, please do keep it professio
 
 ## Can I get some advice from others?
 * [Geoff Kuenning's tips on attending your first conference](https://www.cs.hmc.edu/~geoff/conf-attend-howto.html). Not architecture specific, but good.
-* [Intentionally bad --but funny-- advice](http://pages.cs.wisc.edu/~markhill/conference-etiquette.html). Written by two architects, 22 years ago, but still relevant.
+* [Intentionally bad --but funny-- advice](http://pages.cs.wisc.edu/~markhill/conference-etiquette.html). Written by  architects Mark Hill and David Wood 22 years ago, but still relevant.
 * [Advice from Michael Ernst and David Notkin](https://homes.cs.washington.edu/~mernst/advice/conference-attendance.html).
