@@ -2,7 +2,7 @@
 
 Attending a conference for the first time can be a little daunting, especially since there are many questions that you cannot simply google the answers to.  This page is an attempt to collect and answer some of them, based on the experience of me (Lena Olson) and others.  Some questions/answers are from twitter conversations, with credit given.
 
-**Obligatory caveats:** All opinions are my own and do not represent Google (my employer).  They're also based on my experience, as someone who attended a number of conferences as a grad student.  Seek out advice from multiple people!  And if you disagree with my advice, feel free to email me (lena.olson@gmail.com), tweet me (@zehlyi), or send a pull request.
+**Obligatory caveats:** All opinions are my own and do not represent Google (my employer).  They're also based on my experience, as someone who attended a number of conferences as a grad student.  Seek out advice from multiple people!  A few such links are included at the end.  And if you disagree with my advice, feel free to email me (lena.olson@gmail.com), tweet me (@zehlyi), or send a pull request.
 
 Questions are not presented in any particular order.
 
