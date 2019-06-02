@@ -90,6 +90,8 @@ For cases of harassment where you are not in immediate danger: you can contact t
 ## How do I find people for getting meals?
 One way is to use the whova app, which will allow setting up groups for meals.  Another way is to seek out people you have met, and ask if you can join them.
 
+**From Gabriel Loh**: "do you mind if I join y'all for dinner?"  Vast majority of the time, people are more than happy to have you join.  Sometimes a group arranges a meeting to discuss specific business and will politely inform you.  Just go ask another group.
+
 **Note from Lena**: more advice welcome here! This is something that is much easier when you attend with others whom you know, or when you've been attending several years and have met people.
 
 ## How do I choose a session to attend? (Scott Beamer)
