@@ -85,6 +85,8 @@ For cases of harassment where you are not in immediate danger: you can contact t
 ##  How do I meet people? (Scott Beamer)
 **Advice from Daniel Jimenez**: In a social situation (e.g. the hallway, lunch, the excursion) seek out people you don't know. Everyone there is interesting. If it seems hard, ask your advisor to introduce you. If he or she isn't good at that, find someone else to help you. I'll help :-)
 
+**Advice from Matt Guthaus**:I always make it a point to talk to someone whom I don't know that may be sitting/standing by themselves.
+
 ## How do I find people for getting meals?
 One way is to use the whova app, which will allow setting up groups for meals.  Another way is to seek out people you have met, and ask if you can join them.
 
