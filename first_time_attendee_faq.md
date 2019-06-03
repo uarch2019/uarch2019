@@ -100,7 +100,9 @@ Look through the papers for titles that seem interesting to you.  And interpret 
 ## How do I follow up with the connections I made at ISCA? (Mohamed Zahran)
 One thing to do is to email them after the conference, saying that it was nice to meet them.
 
-**Note from Lena:** Advice welcome here.  I am not great about following up.
+**Advice from Gabriel Loh**: Connect on LinkedIn (YMMV).  Twitter, too, but the majority of comparch seems to not be here.  Some people use Facebook, too, but many folks minimize the number of professional "friends" there (esp. ones they just met).
+
+**Note from Lena:** Further advice welcome here.  I myself am not great about following up.
 
 ## Do I always need to talk about research with others during meals? (Mohamed Zahran)
 You definitely don't.  I have learned many interesting non-academic things about my colleagues during conference meals, such as which ones run triathalons.  Feel free to make normal small talk with your tablemates.
