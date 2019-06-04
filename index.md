@@ -55,7 +55,7 @@ The central theme of this workshop is to attract undergraduate students and earl
 
 **2:00 - 3:00**         Computer Architecture Research and the Future Prospects (David Patterson)
 
-**3 - 3:45**            Computer Architecture Research Meets Biology (Karin Strauss)
+**3:00 - 3:45**         Computer Architecture Research Meets Biology (Karin Strauss)
 
 **3:45 - 4:00**         Break
 
