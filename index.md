@@ -27,9 +27,11 @@ The central theme of this workshop is to attract undergraduate students and earl
 
 
 ## Invited Panelists
-* **Lisa Hsu** (Microsoft)
-* **Ben Zorn** (Microsoft)
-* **Emma Tosch** (Graduate student)
+* **Lisa Hsu** (Researcher, Microsoft)
+* **Ben Zorn** (Researcher, Microsoft)
+* **Adrian Sampson** (Assistant Professor, Cornel University)
+* **Emma Tosch** (Graduate student, Max Plank Institute)
+* **Swapnil Haria** (Graduate Student, UW-Madison)
 
 ## Program Schedule
 
@@ -38,22 +40,22 @@ The central theme of this workshop is to attract undergraduate students and earl
 
 **9 - 9:30**             How to Leverage communication and Social Network to Better Your Research
 
-**9:30 - 10:15**         Starting Out in Graduate School
+**9:30 - 10:15**         What I wish I knew my first few years of grad school (Jason Mars)
 
-**10:15 - 11**           How to Choose a Research Topic and Navigate the Ups and Downs
+**10:15 - 11**           How to be a Great Researcher (Mary Hall)
 
 **11 - 11:20**           Break
 
-**11:20 - 12:30**        Discussion Panel
+**11:20 - 12:30**        Discussion Panel (How you made decisions about your career?): (Adrian Sampson, Emma Tosch, Ben Zorn, Lisa Hsu, Swapnil Haria)
 
 **12:30 - 2:00**         Lunch
 
 
 ### Afternoon Session, June 23rd
 
-**2:00 - 3:00**         Computer Architecture Research and the Future Prospects
+**2:00 - 3:00**         Computer Architecture Research and the Future Prospects (David Patterson)
 
-**3 - 3:45**            Computer Architecture Research Meets Biology
+**3 - 3:45**            Computer Architecture Research Meets Biology (Karin Strauss)
 
 **3:45 - 4:00**         Break
 
