@@ -64,6 +64,8 @@ Most academics love to talk about their research.  So if you have attended a tal
 
 **Advice from Matt Horsnell**: "What was the last surprising result/failure you had?" Probably not good as an ice breaker, but if you've got a conversation started and worked your way through the basics of what you/they do then this can lead to some really interesting conversations and learnings.
 
+**Advice from Biswabandan Panda**: If you are in awe of someone in the architecture community (mostly the big shots from students' perspective) and you want to meet him/her badly. However, big shots usually get occupied throughout the conference. So what should students do? In my case, I did fail initially. This is what I did (thanks to a grad. student from CMU) later. I went to him/her directly introduced myself and then said I have been trying to meet you from last two years at various conferences, and started the conversation.
+
 ## Do I need to contact the people I want to meet beforehand? (Mohamed Zahran)
 You don't need to contact people beforehand, but if there is someone who you are particularly hoping to meet (say, because you read their paper and you think it's incredibly interesting), you could email them before the conference to reach out.  Otherwise, you can often find presenters at their poster during the poster session, and you can look for them during breaks.
 
@@ -85,7 +87,11 @@ For cases of harassment where you are not in immediate danger: you can contact t
 ##  How do I meet people? (Scott Beamer)
 **Advice from Daniel Jimenez**: In a social situation (e.g. the hallway, lunch, the excursion) seek out people you don't know. Everyone there is interesting. If it seems hard, ask your advisor to introduce you. If he or she isn't good at that, find someone else to help you. I'll help :-)
 
-**Advice from Matt Guthaus**:I always make it a point to talk to someone whom I don't know that may be sitting/standing by themselves.
+**Advice from Matt Guthaus**: I always make it a point to talk to someone whom I don't know that may be sitting/standing by themselves.
+
+**Note from Lena:** I have noticed in the past few years that now that people have phones, it is tempting to hide the awkwardness of standing by yourself in a big group by looking at your phone.  But this is counterproductive if you want to meet people, because they think you're busy!  I encourage people to fight the awkward feelings, stay off your phone, and instead look for others who are alone to introduce yourself to.
+
+Also, once you've met a few people, you can join conversation circles with them when you see them later.  That will allow you to meet even more people.
 
 ## How do I find people for getting meals?
 One way is to use the whova app, which will allow setting up groups for meals.  Another way is to seek out people you have met, and ask if you can join them.
