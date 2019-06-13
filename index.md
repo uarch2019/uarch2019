@@ -31,7 +31,7 @@ The central theme of this workshop is to attract undergraduate students and earl
 * **Ben Zorn** (Researcher, Microsoft)
 * **Adrian Sampson** (Assistant Professor, Cornel University)
 * **Emma Tosch** (Graduate student, Max Plank Institute)
-* **Swapnil Haria** (Graduate Student, UW-Madison)
+* **Caroline Trippel** (Graduate Student, Princeton)
 
 ## Program Schedule
 
